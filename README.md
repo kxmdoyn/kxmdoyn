@@ -2,6 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=EA0029&height=180&section=header&text=KXMDOYN&fontSize=50&fontColor=ffffff" />
 </div>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EA0029&height=180&section=header&text=KXMDOYN&fontSize=50&fontColor=ffffff" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EA0029&center=true&vCenter=true&width=500&lines=AI+Agent+Engineer;Prompt+Engineering+for+LLM+Systems;FastAPI+Backend+Developer;AX+Pipeline+Builder;SKax+Bootcamp+Engineer)](https://git.io/typing-svg)
+
+</div>
+
 # 👋 Hello, I'm Doyeon Kim
 
 I design **AI-driven automation systems** that transform workflows into intelligent pipelines.
@@ -47,6 +55,21 @@ Features:
 - Claude MCP tool orchestration
 
 Repo: https://github.com/kxmdoyn/kwon-report-master-agent
+
+---
+
+## 🧩 MCP Templates
+
+K-WON 프로젝트에서 추출한 MCP Server 템플릿 모음입니다.  
+Claude AI + MCP 기반 AI Agent를 빠르게 시작할 수 있도록 인프라 레이어를 3가지 난이도로 정리했습니다.
+
+| 템플릿 | 설명 | 난이도 |
+|---|---|---|
+| `01_mcp-chat` | Claude 채팅 + 단일 MCP | ⭐ |
+| `02_mcp-fullstack` | 대시보드 + 채팅 + 멀티 MCP | ⭐⭐ |
+| `03_mcp-langgraph` | LangGraph + APScheduler + Slack Human Review | ⭐⭐⭐ |
+
+Repo: https://github.com/kxmdoyn/MCP_templates
 
 ---
 
@@ -124,6 +147,8 @@ Currently exploring:
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EA0029&height=120&section=footer" />
+
 # 🇰🇷 About Me (Korean)
 
 안녕하세요.  
@@ -143,6 +168,8 @@ AI 엔지니어링 및 백엔드 시스템 개발을 심화 학습하고 있습�
 
 Koscom AI Agent Challenge 2025 대상 수상 프로젝트에서  
 Report-Master Agent 설계를 담당했습니다.
+
+K-WON 프로젝트 인프라를 기반으로 재사용 가능한 **MCP 템플릿 3종**을 공개했습니다.
 
 K-PaaS 활용 공모전에서는 청소년 감정 지원 챗봇 서비스 INSIDE UP의  
 프롬프트 엔지니어링, 캐릭터 모델링, FastAPI 백엔드 설계를 담당했습니다.
