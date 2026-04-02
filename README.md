@@ -1,14 +1,6 @@
 <div align="center">
-
-<h3>
-$ whoami  
-Doyeon Kim | AI Agent Engineer | AX Developer
-</h3>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=520&lines=AI+Agent+Engineer;Prompt+Engineering+for+LLM+Systems;FastAPI+Backend+Developer;Automation+%26+AX+Pipeline+Builder;SK+AX+Bootcamp+Engineer" />
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EA0029&height=180&section=header&text=KXMDOYN&fontSize=50&fontColor=ffffff" />
+이미지 표시
 </div>
 
 # 👋 Hello, I'm Doyeon Kim
