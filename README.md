@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=200&section=header&text=KXMDOYN&fontSize=50&fontColor=ffffff" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F3ACE&width=435&lines=Hello%2C+I'm+Doyeon+Kim;AI+Agent+Engineer;Prompt+Engineer;AX+Developer)](https://git.io/typing-svg)
+
 </div>
 
 # 👋 Hello, I'm Doyeon Kim
