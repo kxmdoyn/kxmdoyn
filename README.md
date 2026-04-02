@@ -69,28 +69,24 @@ Repo: https://github.com/kxmdoyn/MCP_templates
 
 ---
 
-## 🤖 INSIDE UP — AI Emotional Support Chatbot (K-PaaS Competition)
+## 🤖 INSIDE UP — AI 감정 상담 챗봇 (K-PaaS Competition)
 
-Emotion-support chatbot platform for teenagers, built on K-PaaS cloud infrastructure.
+제 9회 K-PaaS 활용 공모전 출품작. 청소년의 감정 표현과 자기인식을 돕는 AI 상담 챗봇 서비스입니다.
 
-The system combines **KoBERT-based emotion classification** with **GPT-powered empathetic dialogue** to help teenagers recognize and manage their emotional states.
+KoBERT 기반 감정 분류 + GPT 공감 대화를 결합하여 청소년이 자신의 감정 상태를 인식하고 관리할 수 있도록 지원합니다.
 
-**Prompt Engineering**
+**담당 파트**
 
-Designed two distinct chatbot prompt systems from scratch:
+**Prompt Engineering** — 두 가지 챗봇 프롬프트 직접 설계 (단국대 마음건강연구소 자문 기반)
+- 감정발달봇 '밍몽': 캐릭터 페르소나, 반말 말투, 공감 40% : 질문 60% 비율 설계
+- 자가진단봇: PHQ-9 기반 9문항 대화형 설계, 채점 룰셋, `self_harm_risk` 3단계 분류, JSON 출력 강제
 
-- **감정발달봇 (Emotion Development Bot)**: character-based prompt for '밍몽', a teenage-friendly AI persona. Defined tone rules (반말, warm), conversation flow structure, empathy-first response ordering, and question-to-advice ratio (60:40) to guide natural emotional exploration
-- **감정 자가 진단봇 (Self-diagnosis Bot)**: PHQ-9 based 9-question dialogue prompt. Designed scoring rules (0–3 per question), depression level mapping (0–4 / 5–9 / 10–14 / 15–19 / 20–27), self-harm risk classification (`none` / `passive` / `active`), and JSON-only structured output format enforced through prompt constraints
+**FastAPI Backend** — 챗봇 서비스 레이어 전체 구현
+- 감정 온도 기반 봇 타입 자동 전환 (발달봇 ↔ 자가진단봇)
+- Redis 세션 관리 + KoBERT 감정 분석 트리거
+- GPT 감정 리포트 생성 + 주간 감정 패턴 분석
 
-Both prompts were grounded in clinical psychology research and reviewed with Dankook University mental health researchers.
-
-**Character Modeling**
-
-Designed 6 emotion-based character states (기쁨, 당황, 화남, 상처, 슬픔, 불안) × 2 genders = 12 3D characters modeled in Blender. Characters update in real-time on the main screen based on KoBERT analysis results after each chat session.
-
-**FastAPI Backend**
-
-Built the chatbot service backend with session-based conversation flow control using Redis, and integrated the KoBERT analysis trigger at chat session end.
+Repo: https://github.com/kxmdoyn/insideup-chatbot
 
 ---
 
@@ -165,10 +161,10 @@ AI 엔지니어링 및 백엔드 시스템 개발을 심화 학습하고 있습�
 Koscom AI Agent Challenge 2025 대상 수상 프로젝트에서  
 Report-Master Agent 설계를 담당했습니다.
 
-K-WON 프로젝트 인프라를 기반으로 재사용 가능한 **MCP 템플릿 3종**을 공개했습니다.
+K-PaaS 공모전에서는 청소년 감정 지원 챗봇 INSIDE UP의  
+프롬프트 엔지니어링, FastAPI 백엔드 설계를 담당했습니다.
 
-K-PaaS 활용 공모전에서는 청소년 감정 지원 챗봇 서비스 INSIDE UP의  
-프롬프트 엔지니어링, 캐릭터 모델링, FastAPI 백엔드 설계를 담당했습니다.
+K-WON 프로젝트 인프라를 기반으로 재사용 가능한 **MCP 템플릿 3종**을 공개했습니다.
 
 또한 학교 안전사고 데이터 분석 공모전 특별상을 수상하며  
 공공데이터 기반 문제 해결 경험을 쌓았습니다.
