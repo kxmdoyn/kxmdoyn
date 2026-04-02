@@ -12,6 +12,8 @@ Industrial Engineering student focused on:
 
 AI Agents · Backend Systems · Data-driven Decision Automation · AX Transformation
 
+Currently attending **SKax Bootcamp** (operated by SK), focused on AI engineering, backend systems, and cloud-native development.
+
 ---
 
 # 🧠 What I Build
@@ -128,6 +130,9 @@ Currently exploring:
 
 안녕하세요.  
 AI 기반 자동화 시스템을 설계하는 개발자 김도연입니다.
+
+현재 **SK 운영 SKax 부트캠프** 수료 중으로,  
+AI 엔지니어링 및 백엔드 시스템 개발을 심화 학습하고 있습니다.
 
 다음과 같은 영역에 관심이 있습니다:
 
