@@ -2,11 +2,11 @@
 
 <h3>
 $ whoami  
-Doyeon Kim | AI Agent Engineer | AX Workflow Builder
+Doyeon Kim | AI Agent Engineer | AX Developer
 </h3>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=520&lines=AI+Agent+Engineer;Prompt+Engineering+for+LLM+Systems;FastAPI+Backend+Developer;Automation+%26+AX+Pipeline+Builder;Koscom+AI+Agent+Challenge+Grand+Prize+Winner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=520&lines=AI+Agent+Engineer;Prompt+Engineering+for+LLM+Systems;FastAPI+Backend+Developer;Automation+%26+AX+Pipeline+Builder;SK+AX+Bootcamp+Engineer" />
 </a>
 
 </div>
