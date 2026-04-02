@@ -1,8 +1,10 @@
 <div align="center">
+```bash
+$ whoami
+> Doyeon Kim | AI Agent Engineer | AX Developer
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=KXMDOYN&fontSize=50&fontColor=ffffff" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EA0029&width=500&lines=Hello%2C+I'm+Doyeon+Kim+%F0%9F%91%8B;AI+Agent+Engineer;Prompt+Engineer;AX+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EA0029&width=500&lines=AI+Agent+Engineer;Prompt+Engineer;AX+Developer;SKax+Bootcamp)](https://git.io/typing-svg)
 
 </div>
 
