@@ -1,6 +1,9 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=KXMDOYN&fontSize=50&fontColor=ffffff" />
-이미지 표시
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EA0029&width=500&lines=Hello%2C+I'm+Doyeon+Kim+%F0%9F%91%8B;AI+Agent+Engineer;Prompt+Engineer;AX+Developer)](https://git.io/typing-svg)
+
 </div>
 
 # 👋 Hello, I'm Doyeon Kim
@@ -95,21 +98,21 @@ This project strengthened my interest in data-driven policy decision systems.
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=7F3ACE)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=7F3ACE)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=7F3ACE)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=EA0029)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=EA0029)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=EA0029)
 
 ### AI / LLM Systems
 
-![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-111111?style=for-the-badge)
-![KoBERT](https://img.shields.io/badge/KoBERT-111111?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge&logoColor=EA0029)
+![MCP](https://img.shields.io/badge/MCP-111111?style=for-the-badge&logoColor=EA0029)
+![KoBERT](https://img.shields.io/badge/KoBERT-111111?style=for-the-badge&logoColor=EA0029)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge&logoColor=EA0029)
 
 ### Data Analysis
 
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=7F3ACE)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-111111?style=for-the-badge&logo=scikitlearn&logoColor=7F3ACE)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=EA0029)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-111111?style=for-the-badge&logo=scikitlearn&logoColor=EA0029)
 
 ---
 
